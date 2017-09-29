@@ -6,5 +6,6 @@ Electron app demoing the native system tray
 1. clone this repo
 2. run `npm i`
 3. run `npm start`
+4. check your system tray :)
 
 [Node]:https://nodejs.org/en/
